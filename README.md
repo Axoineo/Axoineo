@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/images/Logo.png" alt="India Weather System Logo" width="420">
+<img src="Assets/images/Logo.png" alt="India Weather System Logo" width="600">
 
 # India Weather System
 
